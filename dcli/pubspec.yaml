@@ -7,8 +7,8 @@ repository: https://github.com/onepub-dev/dcli
 environment: 
   sdk: '>=2.18.0 <3.0.0'
 dependencies: 
-  _fe_analyzer_shared: ^27.0.0
-  analyzer: ^3.3.0
+  _fe_analyzer_shared: ^37.0.0
+  analyzer: ^3.4.0
   archive: ^3.2.2
   args: ^2.3.1
   async: ^2.8.2
